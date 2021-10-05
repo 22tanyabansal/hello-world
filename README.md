@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+hi humans
+I like Python Programming.
+I am interesterd in data science.
